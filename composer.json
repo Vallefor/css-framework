@@ -1,0 +1,25 @@
+{
+    "name": "upriver/css-framework",
+    "type": "css-framework",
+    "description": "css framework",
+    "keywords": ["css"],
+    "authors": [
+        {
+            "name": "Dmitry Lipivtsev",
+            "email": "madsorcerer@gmail.com",
+            "homepage": "http://myanimeshelf.com/shelf/Vallefor",
+            "role": "Developer"
+        },
+		{
+			"name": "Eric A.",
+			"homepage": "http://meyerweb.com/",
+			"role": "Developer"
+		},
+		{
+			"name": "Kathryn S. Meyer",
+			"homepage": "http://meyerweb.com/",
+			"role": "Developer"
+		}
+
+    ]
+}
