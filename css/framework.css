@@ -199,6 +199,7 @@ button, a { cursor: pointer; //cursor: hand; }
 .b1px-right { border-right-width: 1px; }
 .b1px-left { border-left-width: 1px; }
 .b1px-bottom { border-bottom-width: 1px; }
+.b1px-top { border-top-width: 1px; }
 
 /*z index*/
 .z1 { z-index: 1; }
